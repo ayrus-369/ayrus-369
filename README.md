@@ -1,5 +1,5 @@
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi%20Aliens%20%20🤠&text2=💖%20FullStack%20Developer&width=1000&height=300&align="center")](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hello%20Everyone%20%20😁&text2=💖%20FullStack%20Developer&width=1000&height=300&align="center")](https://github.com/Akshay090/svg-banners)
 <div style="padding:100px">
 <h1 align="center">I'm Surya M</h1>
 <h3 align="center">A passionate Full Stack Web developer from India .</h3>
