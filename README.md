@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mayrus1459@gmail.com,msurya1459@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/drive/u/3/my-drive" >Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Jq3ZeFo4ZemvpIyinoM9bj6I71mO1Ugw/view?pli=1" >Resume</a>
 
 - ⚡ Fun fact **I really like to mess up with new technologies**
 
